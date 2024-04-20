@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Everett Water Damage Restoration",
-    "currentPage": "mold-remediation.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -55,18 +55,19 @@
     "usedWebp": false,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "https://everettwaterdamagerestoration.com",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "prrlnppdel",
+    "mbrsiteDomain": "everettwdr",
     "imageResize": false,
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
     "uniqCompNum": 71,
     "versionPublish": "5.9.17",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Default Statcounter code for Everett Water Damage\nRestoration https://everettwaterdamagerestoration.com/ -->\n<script type=\"text/javascript\">\nvar sc_project=12984161; \nvar sc_invisible=1; \nvar sc_security=\"456a78aa\"; \n</script>\n<script type=\"text/javascript\"\nsrc=\"https://www.statcounter.com/counter/counter.js\"\nasync></script>\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"\nhref=\"https://statcounter.com/\" target=\"_blank\"><img\nclass=\"statcounter\"\nsrc=\"https://c.statcounter.com/12984161/0/456a78aa/1/\"\nalt=\"Web Analytics\"\nreferrerPolicy=\"no-referrer-when-downgrade\"></a></div></noscript>\n<!-- End of Statcounter Code -->"
   },
   "pages": {
     "index.html": {
